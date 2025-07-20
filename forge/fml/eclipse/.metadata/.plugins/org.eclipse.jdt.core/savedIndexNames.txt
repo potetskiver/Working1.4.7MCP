@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+D:\Alt\Bilder\Mod\SprintingKey\1.4\Forge\forge\fml\eclipse\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+286606776.index
